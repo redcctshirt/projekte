@@ -1,2 +1,4 @@
 # projekte
-Übersicht aller Projekte
+
+Übersicht aller Projekte von datenpaul.de    
+Lizenz: MIT
